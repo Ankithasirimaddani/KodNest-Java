@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "track.practice.Main",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "track.M02.M02_t01_st01_p01.p01.st01.p01.Main",
             "projectName": "KodNest-Java_760eda3a"
         },
