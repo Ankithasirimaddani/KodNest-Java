@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "conditional",
+            "request": "launch",
+            "mainClass": "track.M02.conditional",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
             "name": "Condition",
             "request": "launch",
             "mainClass": "Condition",
