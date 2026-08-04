@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "week",
+            "request": "launch",
+            "mainClass": "week",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
             "name": "typecasting",
             "request": "launch",
             "mainClass": "typecasting",
