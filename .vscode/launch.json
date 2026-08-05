@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "loop",
+            "request": "launch",
+            "mainClass": "track.M02.M02_t01_st01_p01.loop",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
             "name": "construct",
             "request": "launch",
             "mainClass": "track.M02.M02_t01_st01_p01.p01.construct",
