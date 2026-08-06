@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Nesteddwloop",
+            "request": "launch",
+            "mainClass": "track.M02.M02_t01_st01_p01.Nesteddwloop",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
+            "name": "Nestedwloop",
+            "request": "launch",
+            "mainClass": "track.M02.M02_t01_st01_p01.Nestedwloop",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
             "name": "nforloop",
             "request": "launch",
             "mainClass": "track.M02.M02_t01_st01_p01.nforloop",
