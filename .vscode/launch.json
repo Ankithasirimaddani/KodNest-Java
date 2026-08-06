@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "dwloop",
+            "request": "launch",
+            "mainClass": "track.M02.M02_t01_st01_p01.dwloop",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
+            "name": "largest",
+            "request": "launch",
+            "mainClass": "largest",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
             "name": "interview",
             "request": "launch",
             "mainClass": "interview",
