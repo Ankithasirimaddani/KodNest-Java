@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "nforloop",
+            "request": "launch",
+            "mainClass": "track.M02.M02_t01_st01_p01.nforloop",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
             "name": "dwloop",
             "request": "launch",
             "mainClass": "track.M02.M02_t01_st01_p01.dwloop",
