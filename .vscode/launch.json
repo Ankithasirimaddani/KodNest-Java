@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NestedPgm2",
+            "request": "launch",
+            "mainClass": "track.M02.M02_t01_st01_p01.NestedPgm2",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
             "name": "NestedPgm1",
             "request": "launch",
             "mainClass": "track.M02.M02_t01_st01_p01.NestedPgm1",
