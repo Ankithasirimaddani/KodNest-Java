@@ -1,0 +1,31 @@
+package track.M02;
+
+class Student {
+    int roll;
+    String name;
+    double height;
+
+    void run() {
+        System.out.println("Running");
+    }
+
+    void sleep() {
+        System.out.println("Sleeping");
+    }
+
+}
+
+class StudentApplication {
+    public static void main(String[] args) {
+        Student s1 = new Student();
+        s1.roll = 13;
+        s1.name = "Ankitha";
+        s1.height = 5.6;
+        System.out.println(s1.roll);
+        System.out.println(s1.name);
+        System.out.println(s1.height);
+        s1.run();
+        s1.sleep();
+
+    }
+}
