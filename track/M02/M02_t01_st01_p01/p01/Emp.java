@@ -2,7 +2,7 @@ package track.M02.M02_t01_st01_p01.p01;
 
 import java.util.Scanner;
 
-public class construct {
+public class Emp {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number:");
