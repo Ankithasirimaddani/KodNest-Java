@@ -1,6 +1,6 @@
 package track.M02;
 
-class Student {
+class Main1 {
     int roll;
     String name;
     double height;
@@ -17,7 +17,7 @@ class Student {
 
 class StudentApplication {
     public static void main(String[] args) {
-        Student s1 = new Student();
+        Main1 s1 = new Main1();
         s1.roll = 13;
         s1.name = "Ankitha";
         s1.height = 5.6;

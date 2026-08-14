@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StudentApplication",
+            "request": "launch",
+            "mainClass": "StudentApplication",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
+            "name": "Main1",
+            "request": "launch",
+            "mainClass": "track.M02.Main1",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "track.M02.Main",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
             "name": "EmpApplication",
             "request": "launch",
             "mainClass": "EmpApplication",
