@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "track.Array.sum",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
             "name": "pgm3",
             "request": "launch",
             "mainClass": "track.Array.pgm3",
