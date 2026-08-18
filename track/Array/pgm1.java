@@ -14,7 +14,7 @@ public class pgm1 {
 
         System.out.println("Array Elemnts are:");
 
-        for (int i = 0; i <=1 a.length - 1; i++) {
+        for (int i = 0; i <= a.length - 1; i++) {
             System.out.println(a[i]);
         }
 

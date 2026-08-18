@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "freq",
+            "request": "launch",
+            "mainClass": "track.Array.freq",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "track.Array.Main",
+            "projectName": "KodNest-Java_760eda3a"
+        },
+        {
+            "type": "java",
             "name": "max",
             "request": "launch",
             "mainClass": "track.Array.max",
